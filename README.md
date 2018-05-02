@@ -2,6 +2,6 @@
 
 Lecture slides, Python notebooks and other materials
 
-Course at The Istitute of Cancer Research, May 2018
+Course at The Institute of Cancer Research, May 2018
 
 In progress...
